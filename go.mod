@@ -1,5 +1,5 @@
-module example.com/call
+module github.com/Torontototokyo/go-call
 
 go 1.27.0
 
-require github.com/Torontototokyo/go-add v0.0.0-20260904143213-6bce72510e5b // indirect
+require github.com/Torontototokyo/go-add v1.0.2 // indirect
